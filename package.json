@@ -1,0 +1,13 @@
+{
+  "name": "constella",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "packageManager": "pnpm@10.18.0",
+  "scripts": {
+    "dev": "pnpm -r run dev",
+    "build": "pnpm -r run build",
+    "start": "pnpm -r run start"
+  },
+  "license": "ISC"
+}
