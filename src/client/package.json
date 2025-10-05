@@ -1,5 +1,5 @@
 {
-  "name": "constella-client",
+  "name": "@constella/client",
   "description": "constella app client for mobile and web",
   "main": "expo-router/entry",
   "version": "1.0.0",
